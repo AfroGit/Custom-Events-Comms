@@ -5,7 +5,7 @@
 #### Lightning web components that communicate with one another.
 #### Communicate from a child component to its parent component.
 #### Communicate from a parent component to a child component.
-####Communicate from a component to an unrelated component
+#### Communicate from a component to an unrelated component
 <br>
 ###  When multiple Lightning web components compose an app, we often want those components to share information. 
 How we communicate from one component to another depends on whether and how the components are related. 
